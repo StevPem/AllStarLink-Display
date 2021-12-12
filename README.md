@@ -1,5 +1,5 @@
 # AllStarLink-Display
-The is a script I modified from one of the OLED examples to drive an OLED display on an AllStarLink node.
+The is a script I modified from one of the LUMA examples to drive an OLED display on an AllStarLink node.
 
 It cycles through the following:
 - ASL Logo
